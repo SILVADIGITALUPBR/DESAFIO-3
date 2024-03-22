@@ -1,4 +1,4 @@
-# Desenvolvimento de um portifolio com react hooks
+# Desenvolvimento em react hooks
 
 O projeto feito em um exemplo para referencias de boas documentações.
 
